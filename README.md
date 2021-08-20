@@ -8,7 +8,7 @@
 
 We created three scripts for directly running our experiments for the Instacart, MovieLens-1M and Amazon Electronics dataset. 
 
-Due to the enumeration of different CL settings for window size and \#negative samples, they will consume quite some time.
+Due to the enumeration of different CL settings for window size and \#negative samples, they will consume quite some time. The instructions for the data dir setup are provided in **data/README.md**. 
 
 ```bash
 python instacart_run.py
