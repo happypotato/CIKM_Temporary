@@ -1,6 +1,14 @@
 # Data dir
 
-The three datasets can be found and downloaded from the url we provided in the paper. The organizations of the data dir should be as follow:
+The three datasets can be found and downloaded from the url:
+
+https://grouplens.org/datasets/movielens/1m/
+
+https://jmcauley.ucsd.edu/data/amazon/
+
+https://www.instacart.com/datasets/grocery-shopping-2017
+
+The organizations of the data dir should be as follow:
 
     . Amazon
     ├── metadata.json                   # the metadata for amazon items
