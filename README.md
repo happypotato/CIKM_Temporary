@@ -1,8 +1,8 @@
 # WSDM_Temporary
 
-#### We provide the proofs, additional numerical results and the implementation code for our manuscript "Revisitng pre-trained embeddings for recommender system".
+#### We use this temporay repo to provide supplementary material for our manuscript "Revisitng pre-trained embeddings for recommender system".
 
-#### All the contents are properly anonymized, and please do not distribute. 
+#### In "Online Material.pdf", we provide the proofs, additional numerical results. All the contents are properly anonymized, and please do not distribute. 
 
 ## Running code:
 
@@ -26,9 +26,9 @@ The arguments are as follow:
   --GPU: specify the GPU usage.
 ```
 
-For the sequential recommendation tasks, we implement the two-tower Dense4Rec, GRU4Rec and Attn4Rec, with the models' source code in <mark>src/model.py</mark>. 
+For the sequential recommendation tasks, we implement the two-tower Dense4Rec, GRU4Rec and Attn4Rec, with the models' source code in **src/model.py**. 
 
-We follow the standard data processing steps in reco sys, and the implementations can be found in <mark>src/data.py</mark>.
+We follow the standard data processing steps in reco sys, and the implementations can be found in **src/data.py**.
 
 
 
