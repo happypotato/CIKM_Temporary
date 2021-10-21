@@ -1,4 +1,4 @@
-# WSDM_Temporary
+# WWW_Temporary
 
 #### We use this temporay repo to provide supplementary material for our manuscript "Revisitng pre-trained embeddings for recommender system".
 
