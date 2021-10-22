@@ -1,8 +1,8 @@
 # WWW_Temporary
 
-#### We use this temporay repo to provide supplementary material for our manuscript "Revisitng pre-trained embeddings for recommender system".
+#### We use this temporay repo to provide supplementary material for our manuscript "Revisitng pre-trained embeddings for e-commerce machine learning".
 
-#### In "Online Material.pdf", we provide the proofs, additional numerical results. All the contents are properly anonymized, and please do not distribute. 
+#### In "Online Material.pdf", we provide the proofs to the theoretical claims we made in the paper. All the contents are properly anonymized, and please do not distribute. 
 
 ## Running code:
 
