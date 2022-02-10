@@ -1,4 +1,4 @@
-# WWW_Temporary
+# KDD_Temporary
 
 #### We use this temporay repo to provide supplementary material for our manuscript "Revisitng pre-trained embeddings for e-commerce machine learning".
 
